@@ -301,3 +301,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# VS Stdio Project files
+*vcxproj*
