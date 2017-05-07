@@ -303,4 +303,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # VS Stdio Project files
-*vcxproj*
+*.vcxproj
+*.vcxproj.filters
