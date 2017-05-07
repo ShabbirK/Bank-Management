@@ -1,0 +1,9 @@
+Number of accounts: 5
+
+Serial  Name                                            Account No.     Type            Balance              
+------  ---------------------------------------         ------------    ---------       ---------            
+1       Paul Erdos                                      1002            Current         70554.21       
+2       Michael Westen                                  1004            Current         54631.10       
+3       H. T. Jones                                     1005            Savings         65489.36       
+4       Shabbir Khan                                    1007            Savings         71486.52       
+5       John R. Bean                                    1009            Current         78689.00       
