@@ -8,4 +8,6 @@ It is a command line bank account management software. It depends on two **.txt*
    The number in the first line indicates how many people can use the software. The following lines contain the employee IDs and their
    respective passwords in each line.
 
-**2. masterfile.txt.txt:** This file contains information of the bank account holders in a tabular format.
+**2. masterfile.txt:** This file contains information of the bank account holders in a tabular format.
+
+The software allows eligible bank employees to add new customer accounts, view & edit existing customer accounts, and delete customer accounts. There are also options of adding to and withdrawing from user account balances. Moreover, eligible employees have the options to see which customer has the highest account balance, which customer has the lowest account balance, and what is the total & average of all balances.
