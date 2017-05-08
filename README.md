@@ -1,7 +1,7 @@
 # Bank Management 
 This is my first class project, in fact my first programming project. I made it using **C** in Fall 2015 for *CSE 115 (Programming Language I)* at NSU.
 
-It is a command line bank account management software. It depends on two **.txt** files-
+It is a console bank account management application. It depends on two **.txt** files-
 
 **1. eligible.txt:** This file contains information about the people who can use the software. 
 
