@@ -1,5 +1,5 @@
 # Bank Management 
-This is my first class project, in fact my first programming project. I made it in Fall 2015 for *CSE 115 (Programming Language I)* at NSU.
+This is my first class project, in fact my first programming project. I made it using **C** in Fall 2015 for *CSE 115 (Programming Language I)* at NSU.
 
 It is a command line bank account management software. It depends on two **.txt** files-
 
